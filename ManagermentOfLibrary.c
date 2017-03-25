@@ -5,6 +5,7 @@
 # include <io.h>
 # include <time.h>
 
+// add a note
 struct load_man 
 {   
     char idnumber[15]; 
